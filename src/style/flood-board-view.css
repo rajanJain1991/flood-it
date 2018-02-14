@@ -1,0 +1,9 @@
+.colorBlock {
+    border: 1px solid #dce0e0;
+    width: 15px;
+    height: 15px;
+}
+
+.hand {
+    cursor: pointer;
+}
